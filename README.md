@@ -1,4 +1,5 @@
 Amazon Prime Dashboard
+
 Dashboard Link: https://app.powerbi.com/groups/me/reports/2a98c611-0fe7-4f2a-af83-2c6f78f22fd2/ReportSection?experience=power-bi
 Problem Statement
 This dashboard aims to provide insights into Amazon Prime customer satisfaction and service performance. By analyzing customer ratings and service metrics, Amazon can identify areas for improvement and enhance the overall customer experience. The dashboard helps in understanding customer sentiments, service efficiency, and areas needing attention for optimization.
